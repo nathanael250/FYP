@@ -1,2 +1,2 @@
 [phases.setup]
-nixPkgs = ["php82", "composer", "nginx", "nodejs_18", "mysql"]
+nixPkgs = ["php82", "php82Packages.composer", "nginx", "nodejs_18", "mysql"]
