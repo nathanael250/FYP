@@ -1,3 +1,18 @@
+<<<<<<< HEAD
+# FYP_Using_PHP_Laravel
+This FYP is the project which is developed in PHP using Laravel framework, it is the project which is used to manage Final Year Projects in academic institutions, where student upload his project and find others works, and help him to interact with supervisor accordingly.
+
+# This is the home page
+![image](https://github.com/user-attachments/assets/817e87c2-1a7b-408f-9e8e-c2223e6328a0)
+
+# this is the dashboard of HOD
+
+![image](https://github.com/user-attachments/assets/91d42db7-cfda-4143-8ed7-5592d65cd5dc)
+
+# Here you can assign supervisor to the project and student, this page shows
+
+![image](https://github.com/user-attachments/assets/3341b883-c9a0-41b3-b79d-d9308b8efc29)
+=======
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -35,19 +50,19 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 
 ### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+- *[Vehikl](https://vehikl.com/)*
+- *[Tighten Co.](https://tighten.co)*
+- *[Kirschbaum Development Group](https://kirschbaumdevelopment.com)*
+- *[64 Robots](https://64robots.com)*
+- *[Cubet Techno Labs](https://cubettech.com)*
+- *[Cyber-Duck](https://cyber-duck.co.uk)*
+- *[Many](https://www.many.co.uk)*
+- *[Webdock, Fast VPS Hosting](https://www.webdock.io/en)*
+- *[DevSquad](https://devsquad.com)*
+- *[Curotec](https://www.curotec.com/services/technologies/laravel/)*
+- *[OP.GG](https://op.gg)*
+- *[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)*
+- *[Lendio](https://lendio.com)*
 
 ## Contributing
 
@@ -64,3 +79,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+>>>>>>> 99700ae (first commit)
