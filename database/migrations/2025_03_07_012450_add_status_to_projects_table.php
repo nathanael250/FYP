@@ -14,6 +14,7 @@ return new class extends Migration
     public function up()
 {
     Schema::table('Project', function (Blueprint $table) {
+
         $table->enum('status', ['pending', 'approved', 'rejected'])->default('pending');
         $table->text('rejection_reason')->nullable();
     });

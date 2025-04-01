@@ -10,6 +10,7 @@ use App\Http\Controllers\SupervisorDashboardController;
 use App\Http\Controllers\DepartmentDashboardController;
 use App\Http\Controllers\ProjectAssignmentController;
 use App\Http\Controllers\StudentDashboardController;
+use App\Http\Controllers\EmployeeController;
 
 
 /*
@@ -165,4 +166,10 @@ Route::get('/department/assign-supervisors', [DepartmentDashboardController::cla
     });
     Route::post('/department/generate-report', [DepartmentDashboardController::class, 'generateReport'])->name('department.generate.report');
 
-    
+ Route::get('/employee', function(){
+    return view('employee');
+ });
+ Route::post('/emp_insert', [EmployeeController::class, 'insertEmp'])->name('emp.insert');
+
+
+
